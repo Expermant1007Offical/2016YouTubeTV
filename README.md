@@ -124,7 +124,9 @@ innertube for search and stuff, but not fully GDATA ones. Just use YT2009 at tha
 
 - Step 2: run npm install
 
-- Step 3: run npm start, and you're done!
+- Step 3: run cd back
+
+- Step 4: run node server.js and you're done!
 
 [When I say V, I mean the version of the YouTube App]
 
